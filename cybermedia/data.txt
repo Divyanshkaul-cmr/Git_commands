@@ -1,0 +1,3 @@
+Antigravity is an advanced agentic AI coding assistant designed by Google DeepMind.
+It pairs with developers to design, build, debug, and automate software projects seamlessly.
+With full workspace awareness, tool integration, and autonomous workflows, it elevates modern software engineering.
